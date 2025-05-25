@@ -61,3 +61,7 @@ npx shadcn@latest init
 ```sh
 npm install @phosphor-icons/react
 ```
+
+## Biblioteca de Animações
+
+<https://michalsnik.github.io/aos/>
